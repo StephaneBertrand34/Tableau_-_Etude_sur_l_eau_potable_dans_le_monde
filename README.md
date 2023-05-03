@@ -1,14 +1,16 @@
-# Etude sur l'eau potabler dans le monde
+# Etude sur l'eau potable dans le monde
 ---
 
 ## Compétences acquises à l'issue du projet
-
+* Analyser un besoin client pour formuler des questions analytiques
+* Créer un tableau de bord répondant à des questions analytiques
+* Générer des graphiques adaptés aux types de données
+* Synthétiser des résultats à destination d'un client
 
 <br>
 
-## Outils utilisés
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" height="50"/>&nbsp;
-
+## Outil utilisé
+<img src="https://github.com/StephaneBertrand34/Tableau_-_Etude_sur_l_eau_potable_dans_le_monde/blob/main/673960.png" title="Python"  alt="Python" height="70"/>
 
 <br>
 
