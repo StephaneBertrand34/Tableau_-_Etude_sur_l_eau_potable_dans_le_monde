@@ -18,7 +18,6 @@
 ## Mise en situation
 Vous êtes consultant Data Analyst en mission pour l'ONG DWFA (Drinking Water For All). Vous êtes missionné par un bailleur de fonds pour réaliser un dashboard présentant une vue globale de l'accès à l'eau potable dans le monde, permettant d'identifier les pays qui rencontrent des difficultés.   
 <br>
-
 Vous devrez, pour commencer, préparer les données fournies à l'aide de Tableau Prep.   
 Ensuite, à l'aide du logiciel Tableau, vous créerez une histoire composée de trois vues (mondiale, continentale et par pays).   
 Vous donnerez, en conclusion, vos recommandations de pays pour chacun des 3 domaines d'expertise de l'ONG (création de services d’accès à l’eau potable, modernisation de services d’accès à l’eau déjà existants, consulting auprès d’administrations/gouvernements à propos des politiques d’accès à l’eau).
