@@ -1,5 +1,6 @@
 # Etude sur l'eau potable dans le monde
----
+
+<br>
 
 ## Compétences acquises à l'issue du projet
 * Analyser un besoin client pour formuler des questions analytiques
